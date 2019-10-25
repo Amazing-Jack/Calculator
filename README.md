@@ -1,2 +1,2 @@
 # Calculator
-Demo project for Spring Boot &amp; Jenkins Pipeline
+Demo project for Spring Boot and Jenkins Pipeline
